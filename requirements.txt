@@ -1,0 +1,1 @@
+pip install fastapi && pip install typing && pip install exllamav2
